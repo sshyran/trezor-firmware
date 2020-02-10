@@ -7,6 +7,7 @@ Welcome to the Trezor Firmware repository. This repository is so called _monorep
 ## Repository Structure
 
 
+
 * **[`ci`](https://github.com/trezor/trezor-firmware/tree/master/ci/)**: [Gitlab CI](https://gitlab.com/satoshilabs/trezor/trezor-firmware) configuration files
 * **[`common/defs`](https://github.com/trezor/trezor-firmware/tree/master/common/defs/)**: JSON coin definitions and support tables
 * **[`common/protob`](https://github.com/trezor/trezor-firmware/tree/master/common/protob/)**: Common protobuf definitions for the Trezor protocol
